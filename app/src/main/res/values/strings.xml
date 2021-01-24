@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="rate_value">%s %s</string>
+    <string name="exchange_rates">Exchange rates</string>
+    <string name="err_msj">There was an error getting the rates, please try again later</string>
+</resources>
